@@ -1,2 +1,11 @@
-# portfolio-website
-My personal portfolio website built with HTML, CSS and JavaScript.
+# 🌐 Portfolio Website
+
+## 📌 About
+
+This is my personal portfolio website.
+
+It is built using:
+
+- HTML
+- CSS
+- JavaScript
